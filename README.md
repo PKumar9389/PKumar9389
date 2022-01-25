@@ -26,7 +26,6 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 </a>
 
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
