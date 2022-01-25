@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-
-I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spend most of time coding outstanding projects and leaning new things.
+I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Competitive Programmer. I Spend most of time coding and leaning new things.
 
 
 - 👋 Hi, I’m @PKumar9389
