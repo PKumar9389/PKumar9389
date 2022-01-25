@@ -25,7 +25,6 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKumar9389" />
 </a>
 
-<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
