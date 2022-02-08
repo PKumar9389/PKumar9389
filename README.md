@@ -41,7 +41,7 @@ I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Comp
     </a>
   
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username= PKumar9389&theme=aura&bg_color=20232a&hide_border=true" width="100%"/>
+  <img align="left" width="390" src="https://camo.githubusercontent.com/13ade290c7aaa441020f3cb91c0c622975f9793804ec96e3f829ef1ad437411e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5669676e657368776172616e3136267468656d653d62756566792d6461726b26626f726465723d36316461666226686964655f626f726465723d74727565" alt="zumrudu-anka" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwaran16&amp;theme=buefy-dark&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;">
 </p>
 <img src="https://camo.githubusercontent.com/fe194d284eb1d079c7a7d234c8145dae3c3c00bb39a572e6cc3a59bda7993c4e/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d5669676e657368776172616e3136267468656d653d617572612662675f636f6c6f723d32303233326126686964655f626f726465723d74727565" width="100%" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Vigneshwaran16&amp;theme=aura&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;">
   
