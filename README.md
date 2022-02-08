@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PKumar9389.Pkumar9389">
+
 I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Competitive Programmer. I Spend most of time coding and leaning new things.
 
 
