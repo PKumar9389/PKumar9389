@@ -39,7 +39,7 @@ I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Comp
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKumar9389&theme=aura&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div> -->
+  
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username= PKumar9389&theme=aura&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
