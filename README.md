@@ -36,10 +36,6 @@ I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Comp
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKumar9389&theme=aura&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  
 <!---
 PKumar9389/PKumar9389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
