@@ -1,4 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PKumar9389.Pkumar9389">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+PradeepKumarSingh....;Nice+to+meet+you!&center=true&size=30&color=7957D4">
+  </a>
+</p>
+
 
 I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Competitive Programmer. I Spend most of time coding and leaning new things.
 
