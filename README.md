@@ -18,7 +18,7 @@ I'm Pradeep Kumar Singh at Learning phase of Full Stack Web Developer and a Comp
 
 
 - 🔭 I’m currently learning Full Stack Development
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=PKumar9389.PKumar9389)
+  ###![visitors](https://visitor-badge.glitch.me/badge?page_id=PKumar9389.PKumar9389)
 
 ## My GitHub Stats 📊
 <a href="https://github.com/PKumar9389/github-readme-stats">
